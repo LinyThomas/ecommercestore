@@ -21,3 +21,9 @@ $CustomTheme: mat.define-theme();
 .container {
   @apply mx-auto;
 }
+.text-primary {
+  color: #7d00fa;
+}
+button.match-input-height {
+  height: var(--mat-fotm-field-container-height) !important;
+}
