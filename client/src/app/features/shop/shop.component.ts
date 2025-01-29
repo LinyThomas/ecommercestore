@@ -8,7 +8,7 @@ import { MatButton } from '@angular/material/button';
 import { MatIcon } from '@angular/material/icon';
 import { MatMenu, MatMenuTrigger } from '@angular/material/menu';
 import { MatListOption, MatSelectionList, MatSelectionListChange } from '@angular/material/list';
-import { ShopParams } from '../../shared/models/shopparams';
+import { ShopParams } from '../../shared/models/shopParams';
 import {MatPaginator, PageEvent} from '@angular/material/paginator'
 import { Pagination } from '../../shared/models/pagination';
 import { FormsModule } from '@angular/forms';
